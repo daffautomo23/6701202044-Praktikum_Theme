@@ -30,7 +30,7 @@ class SecondScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(10), // Membuat tombol dengan border radius 10
                 ),
               ),
-            ), // <-- Pastikan tanda kurung tutup untuk ElevatedButton
+            ), 
           ],
         ),
       ),
